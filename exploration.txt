@@ -1,0 +1,25 @@
+-> Take yourself to the mansion directory.
+-> Confirm that you are in fact in that directory.
+-> See what directories are in the mansion. (These directories represent areas you will explore.)
+-> Go into the entryway.
+-> What does the entryway contain?
+-> Go into the coat closet. What's in there?
+-> Take your coat off by making a new text file in the coat closet.
+-> From the coat closet, go back to the entryway.
+-> From the entryway, go back to the mansion.
+-> Go to the east wing and see what's in there.
+-> Go into the dining room and see what's in there.
+-> Remove the sandwich file from the dining room.
+-> We need more chairs in the dining room. Create 4 total chairs by copying the chair file. Give the copies names like chair_2, etc.
+-> Go from the dining room to the guest bedroom in a single command. What's in the guest bedroom?
+-> Go from the guest bedroom back to the mansion in a single command.
+-> Go to the master bedroom in the west wing in a single command.
+-> See what's in the master bedroom. Are there any hidden files or folders?
+-> Break the mirror by renaming it to smashed_mirror.txt.
+-> Create a directory called cardboard_box.
+-> Move the smashed_mirror into the cardboard_box.
+-> Go into the secret passage. What's in there?
+-> Move the family heirloom up into the master bedroom.
+-> Destroy the secret passage.
+-> Go up 2 levels. Where are you now?
+-> Go back to the mansion.
