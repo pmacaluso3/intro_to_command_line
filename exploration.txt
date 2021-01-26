@@ -1,6 +1,10 @@
 -> Take yourself to the mansion directory.
+cd mansion
 -> Confirm that you are in fact in that directory.
+pwd
 -> See what directories are in the mansion. (These directories represent areas you will explore.)
+ls
+east_wing  entry_hall west_wing
 -> Go into the entryway.
 -> What does the entryway contain?
 -> Go into the coat closet. What's in there?
